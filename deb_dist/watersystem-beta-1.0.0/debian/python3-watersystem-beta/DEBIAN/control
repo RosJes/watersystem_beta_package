@@ -1,0 +1,10 @@
+Package: python3-watersystem-beta
+Source: watersystem-beta
+Version: 1.0.0-1
+Architecture: all
+Maintainer: RosJes <RosJes@example.com>
+Installed-Size: 24
+Depends: python3:any
+Section: python
+Priority: optional
+Description: Network steering of Arduino based watering system

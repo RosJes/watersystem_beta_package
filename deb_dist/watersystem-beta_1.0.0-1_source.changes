@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Mon, 27 Mar 2023 13:08:32 +0200
+Source: watersystem-beta
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RosJes <RosJes@example.com>
+Changed-By: RosJes <RosJes@example.com>
+Changes:
+ watersystem-beta (1.0.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 57a1812472d3c5b70aba3e02bc1d2de6e08cbad3 897 watersystem-beta_1.0.0-1.dsc
+ 4d733b1be4f16febae18ac8963736a7d7d99cdc6 3142 watersystem-beta_1.0.0.orig.tar.gz
+ d45551b7de0616fdeb0aee218320e099642f9d0a 860 watersystem-beta_1.0.0-1.debian.tar.xz
+ 838817bff2f6d164d0223a8bd07a70e621958ebc 6357 watersystem-beta_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ 5686c7b86286e4a44c2a6555faf73fc04100fc2777de0d76c0e8a91638a4be45 897 watersystem-beta_1.0.0-1.dsc
+ b994394f8aa256a7f9e1868c4cf0fb02b060db2f9988473daeff9c8035621aa6 3142 watersystem-beta_1.0.0.orig.tar.gz
+ 47b124d6f9482eb3d1cdf987a0e0d1ab510c6516b564e37f1a3f5d538afe7035 860 watersystem-beta_1.0.0-1.debian.tar.xz
+ 25d4f41c7fb5618a9f99d8925f93952cdd2ab5078e781563258e98373887efd8 6357 watersystem-beta_1.0.0-1_source.buildinfo
+Files:
+ db80becedbedfcf5d524289d7b53e78c 897 python optional watersystem-beta_1.0.0-1.dsc
+ cda1408e37a14b20b38f99c1a2f78df1 3142 python optional watersystem-beta_1.0.0.orig.tar.gz
+ 222f933950b298cf06044790f0b84995 860 python optional watersystem-beta_1.0.0-1.debian.tar.xz
+ 7ab31ee058f7c74f2d4861ac8e360825 6357 python optional watersystem-beta_1.0.0-1_source.buildinfo

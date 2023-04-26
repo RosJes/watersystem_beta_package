@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: watersystem-beta
+Version: 1.0.0
+Summary: Network steering of Arduino based watering system
+Home-page: UNKNOWN
+Author: RosJes
+Author-email: RosJes@example.com
+License: MIT
+Keywords: watersystem steering UDP
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Environmment :: Console
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+UNKNOWN
+

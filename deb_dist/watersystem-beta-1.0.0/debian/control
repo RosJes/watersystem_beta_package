@@ -1,0 +1,12 @@
+Source: watersystem-beta
+Maintainer: RosJes <RosJes@example.com>
+Section: python
+Priority: optional
+Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9)
+Standards-Version: 3.9.6
+
+Package: python3-watersystem-beta
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: Network steering of Arduino based watering system
+

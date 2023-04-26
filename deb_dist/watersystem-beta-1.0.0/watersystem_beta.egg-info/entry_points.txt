@@ -1,0 +1,3 @@
+[console_scripts]
+watersystem_beta = watersystem_beta.watersystem_beta:main
+

@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Mon, 27 Mar 2023 13:08:32 +0200
+Source: watersystem-beta
+Binary: python3-watersystem-beta
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: RosJes <RosJes@example.com>
+Changed-By: RosJes <RosJes@example.com>
+Description:
+ python3-watersystem-beta - Network steering of Arduino based watering system
+Changes:
+ watersystem-beta (1.0.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ cdeef4210658c6a37a40f11c2c9c35c7e33c6bc4 3492 python3-watersystem-beta_1.0.0-1_all.deb
+ 02232277e3aae7c85699981a899238290552079a 6426 watersystem-beta_1.0.0-1_amd64.buildinfo
+Checksums-Sha256:
+ 89dfd8db271b307c354ab098a5a3c9abc420455958b0be57a6e0a63e6d22991e 3492 python3-watersystem-beta_1.0.0-1_all.deb
+ 3fcebc26aec31078634163e395a19c20129e5ecbcfdf6d3509f889f2ac763e4d 6426 watersystem-beta_1.0.0-1_amd64.buildinfo
+Files:
+ 1566782700c0a9e606a19eb9e09da271 3492 python optional python3-watersystem-beta_1.0.0-1_all.deb
+ 2642c0ed8e14c6cb9c0cfb21da2091b2 6426 python optional watersystem-beta_1.0.0-1_amd64.buildinfo

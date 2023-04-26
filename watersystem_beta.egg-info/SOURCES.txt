@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+watersystem_beta.desktop
+watersystem_beta/__init__.py
+watersystem_beta/watersystem_beta.py
+watersystem_beta.egg-info/PKG-INFO
+watersystem_beta.egg-info/SOURCES.txt
+watersystem_beta.egg-info/dependency_links.txt
+watersystem_beta.egg-info/entry_points.txt
+watersystem_beta.egg-info/top_level.txt
